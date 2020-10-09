@@ -1,0 +1,1 @@
+Data can be downloaded from https://ai.stanford.edu/~amaas/data/sentiment/
